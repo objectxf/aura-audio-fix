@@ -5,9 +5,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-> **Live Demos:** 
-> - 🟢 **Fixed Production Page (After):** [View Live Fix](https://YOUR-GITHUB-USERNAME.github.io/aura-audio-ecommerce-fix/index.html)
-> - 🔴 **Replicated Bug Page (Before):** [View Broken Layout](https://YOUR-GITHUB-USERNAME.github.io/aura-audio-ecommerce-fix/broken.html)
+> **Live Demos:**
+> - 🟢 **Fixed Production Page (After):** [View Live Fix](https://aura-audio-product-page-nawkumb5z-objecto.vercel.app/)
+> - 🔴 **Replicated Bug Page (Before):** [View Broken Layout](https://aura-audio-product-page-nawkumb5z-objecto.vercel.app/broken)
 
 ---
 
