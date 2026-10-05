@@ -35,7 +35,7 @@ On viewports smaller than `640px` (mobile devices), the primary Sticky Conversio
 
 | Before (Broken Layout) | After (Pixel-Perfect Fix) |
 | :---: | :---: |
-| ![Before Bug](./assets/demo-before.png) | ![After Fix](./assets/demo-after.png) |
+| ![Before Bug](./mBefore.png) | ![After Fix](./mAfter.png) |
 | *Horizontal overflow & cut-off CTA* | *Fluid responsive mobile layout* |
 
 ---
@@ -50,5 +50,5 @@ On viewports smaller than `640px` (mobile devices), the primary Sticky Conversio
 ## 📬 Contact & Hire
 Available for freelance e-commerce fixes (WooCommerce / Shopify frontend issues, RWD repairs, PageSpeed tuning).
 
-* **Useme Profile:** [My Useme Portfolio](https://useme.com)
+* **Useme Profile:** [My Useme Portfolio]([https://aura-audio-product-page-nawkumb5z-objecto.vercel.app/broken](https://useme.com/en/roles/contractor/object,708364/))
 * **Location:** Wrocław, Poland
