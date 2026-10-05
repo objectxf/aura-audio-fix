@@ -50,5 +50,5 @@ On viewports smaller than `640px` (mobile devices), the primary Sticky Conversio
 ## 📬 Contact & Hire
 Available for freelance e-commerce fixes (WooCommerce / Shopify frontend issues, RWD repairs, PageSpeed tuning).
 
-* **Useme Profile:** [My Useme Portfolio]([https://aura-audio-product-page-nawkumb5z-objecto.vercel.app/broken](https://useme.com/en/roles/contractor/object,708364/))
+* **Useme Profile:** [My Useme Portfolio](https://useme.com/en/roles/contractor/object,708364/)
 * **Location:** Wrocław, Poland
